@@ -13,3 +13,13 @@ if(harryPotterFan){
   console.log('I lead a mggule\'s life.');
   
 }
+
+Number 2:
+
+var hungerLevel = 10;
+
+if (hungerLevel > 7) {
+  console.log('Time to eat!');
+} else {
+  console.log('Let\'s eat later');
+}
